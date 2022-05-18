@@ -11,6 +11,8 @@
 ### Android TV
 
 - [Tivimates](https://tivimates.com)  - IPTV player for Android platform.
+- [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
+
 
 ### macOS
     
