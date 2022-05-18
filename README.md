@@ -1,10 +1,10 @@
 # 声明
 
-本项目为个人收集公开 IPTV 源后，删除精简，仅仅保存国内主流电视频道。所有直播源借来自互联网，不做任何稳定性，清晰度保障，仅根据个人喜好进行删减处理。
+本项目为个人收集公开 IPTV 源后，删除精简，仅仅保存国内主流电视频道。所有直播源来自互联网公开渠道，不做任何稳定性，清晰度保障，仅根据个人喜好进行删减处理。
 
 ## IPTV 源出处
 
- [vamoschuck](https://github.com/vamoschuck/TV/blob/main/M3U)
+- [vamoschuck](https://github.com/vamoschuck/TV/blob/main/M3U)
 
 ## 推荐客户端
 
