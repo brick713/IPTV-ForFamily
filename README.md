@@ -9,10 +9,12 @@
 ## 推荐客户端
 
 ### Android TV
-    - [Tivimates](https://tivimates.com)  - IPTV player for Android platform.
+
+- [Tivimates](https://tivimates.com)  - IPTV player for Android platform.
 
 ### macOS
-    - [IINA](https://iina.io/) - Modern media player for macOS.
+    
+- [IINA](https://iina.io/) - Modern media player for macOS.
 
 
 ## 使用方法
