@@ -343,7 +343,9 @@ http://stream.ijatv.com/jatv2/hd/live.m3u8
 
 #南方卫视
 
-
+#EXTINF:-1 tvg-id="7252" tvg-name="广东经济" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png" group-title="南方卫视",广东经济科教
+http://www.weetai.cn//cdn/iptv/tyzb38.php?id=gdjjkj
+#https://pili-live-hls-metoo.v2gogo.com/metoo-live/905db01e5c06496ba128e547bb87158b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="http://n.ysyz.top:99/buyaolian/fjse.png" group-title="南方卫视",福建少儿
 http://39.135.55.105:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="福建体育" tvg-logo="http://n.ysyz.top:99/buyaolian/fjty.png" group-title="南方卫视",福建文体
