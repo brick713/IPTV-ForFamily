@@ -6,6 +6,7 @@
 
 - [vamoschuck](https://github.com/vamoschuck/TV/blob/main/M3U)
 - [Liuxl945](https://github.com/Liuxl945/TV)
+- [卷毛鼠IPTV频道](https://jmstv.github.io)
 
 ## EPG 源出处
 
@@ -37,6 +38,11 @@ v0.0.1
 根据 iptv-org EPG 信息优化频道名称
 
 删除大量非必要频道
+
+v0.0.2
+
+增加 CCTV 4k 超高清
+更新部分失效源，删除冗余频道
 
 
 ## 提醒
