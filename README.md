@@ -6,6 +6,10 @@
 
 每周一更新失效源，并酌情增加新频道
 
+「IPTV-ALL」文件为全部频道
+
+「IPTV」文件为精简频道
+
 ## IPTV 源出处
 
 - [vamoschuck](https://github.com/vamoschuck/TV/blob/main/M3U)
@@ -31,7 +35,7 @@
 
 ## 使用方法
 
-1. 下载 IPTV.m3u 文件或使用在线链接，导入 IPTV 播放客户端即可
+1. 下载 IPTV.m3u 或 IPTV-ALL.m3u 文件或使用在线链接，导入 IPTV 播放客户端即可
 2. 导入[在线 EPG 源](https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml)，获取节目信息 
 
 ## 更新内容
@@ -56,6 +60,10 @@ v0.0.3
 优化「tvg-name」名称
 
 更新部分失效源，删除部分冷门频道，删除频道组别
+
+v0.0.4
+
+区分IPTV频道版本
 
 ## 提醒
 
