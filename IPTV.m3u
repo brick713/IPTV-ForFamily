@@ -128,19 +128,3 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="卫视直播",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-#EXTINF:-1 tvg-id="61" tvg-name="江西都市频道" tvg-logo="" group-title="卫视直播",江西都市频道
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="江西经济生活" tvg-logo="" group-title="卫视直播",江西经济生活
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8
-#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="江西影视旅游" tvg-logo="" group-title="卫视直播",江西影视旅游
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="江西公共农业" tvg-logo="" group-title="卫视直播",江西公共农业
-http://117.169.120.223:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
-#http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="江西少儿家庭" tvg-logo="" group-title="卫视直播",江西少儿家庭
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="江西新闻频道" tvg-logo="" group-title="卫视直播",江西新闻频道
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="江西移动电视" tvg-logo="" group-title="卫视直播",江西移动电视
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
