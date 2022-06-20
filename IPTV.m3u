@@ -26,19 +26,19 @@ http://39.135.138.59:18890/TVOD/88888910/224/3221225628/index.m3u8
 #EXTINF:-1  tvg-id="13" tvg-name="CCTV 12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="卫视直播",CCTV 12
 http://117.148.179.150/TVOD/88888888/224/3221231660/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV 13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="卫视直播",CCTV 13
-http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
+http://39.135.138.59:18890/TVOD/88888910/224/3221225638/index.m3u8
 #EXTINF:-1  tvg-id="15" tvg-name="CCTV 14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="卫视直播",CCTV 14
-http://39.135.55.105:6610/PLTV/88888888/224/3221225819/index.m3u8?servicetype=1
+http://39.135.138.59:18890/TVOD/88888910/224/3221225639/index.m3u8
 #https://php.52sf.ga/jmstvbf.php?id=132
 #EXTINF:-1  tvg-id="16" tvg-name="CCTV 15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="卫视直播",CCTV 15
-http://39.135.55.105:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1
+http://39.135.138.59:18890/TVOD/88888910/224/3221225641/index.m3u8
 #https://php.52sf.ga/jmstvbf.php?id=133
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV 16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="卫视直播",CCTV 16
 http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
 #EXTINF:-1  tvg-id="18" tvg-name="CCTV 17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="卫视直播",CCTV 17
-http://117.148.179.167/TVOD/88888888/224/3221231772/index.m3u8
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231772/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="卫视直播",CCTV 4K
-http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233454/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/cgtn.png" group-title="卫视直播",CGTN
 http://125.210.152.19:9090/live/hszx-cctvgj-h264.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视直播",安徽卫视
