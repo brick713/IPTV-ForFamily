@@ -116,7 +116,7 @@ http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.
 #EXTINF:-1 tvg-id="55" tvg-name="北京生活" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/btv-live.jpg" group-title="卫视直播",北京生活
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
 #http://221.179.136.146:443/PLTV/88888888/224/3221226561/1.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="北京青年" tvg-logo="http://n.ysyz.top:99/buyaolian/bjqn1.png" group-title="卫视直播",北京青年
+#EXTINF:-1 tvg-id="56" tvg-name="北京青年" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/btv-live.jpg" group-title="卫视直播",北京青年
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 #http://221.179.136.150:443/PLTV/88888888/224/3221226562/1.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="北京新闻" tvg-logo="https://m.mlzhongguo.com/uploads/image/06/15924484832056.jpg" group-title="卫视直播",北京新闻
