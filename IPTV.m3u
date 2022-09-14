@@ -24,7 +24,7 @@ http://112.25.47.24/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV 11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="卫视直播",CCTV 11
 http://112.25.47.24/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
 #EXTINF:-1  tvg-id="13" tvg-name="CCTV 12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="卫视直播",CCTV 12
-http://117.148.179.150/TVOD/88888888/224/3221231660/index.m3u8
+http://117.169.121.162:6610/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV 13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="卫视直播",CCTV 13
 http://112.25.47.24/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 #EXTINF:-1  tvg-id="15" tvg-name="CCTV 14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="卫视直播",CCTV 14
@@ -85,14 +85,12 @@ http://112.25.47.24/gitv_live/G_TIANJIN-HD-265-8M/G_TIANJIN-HD-265-8M.m3u8?p=GIT
 http://117.169.121.162:6610/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视直播",青海卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="中国教育4" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="卫视直播",中国教育4
-http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel38/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视直播",新疆卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-id="49" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视直播",云南卫视
 http://117.169.121.162:6610/PLTV/88888910/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视直播",重庆卫视
-http://125.210.152.19:9090/live/hzgq-cqwsgq-h264.m3u8
+http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="五星体育" tvg-logo="https://pic.liupan.net/d/file/2018/04/17/b/sucaifu_021_j30xb4raj.jpg" group-title="卫视直播",五星体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="卫视直播",第一财经
